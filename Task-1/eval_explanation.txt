@@ -1,0 +1,6 @@
+Evaluation function:
+
+The evaluation function considers a solution in which the player 1 wins as optimal. The function is calculated as 
+the difference between score 1 and score 2.
+If the difference is positive then the algorithm takes that path or else it changes the path such that the player 1 wins.
+ 
